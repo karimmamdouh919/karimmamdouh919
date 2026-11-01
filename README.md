@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_1=1a1b26&customColor_2=7aa2f7&height=180&section=header&text=Karim%20Mamdouh%20Abdel%20Kader&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+</p>
+
 # Hi there, I'm Karim Mamdouh Abdel Kader 👋
 
 Computer Science graduate with a strong foundation in **Backend Engineering (Node.js / Express / NestJS)** and **IT Infrastructure & Networking**. Passionate about clean API architectures, relational & NoSQL databases, system diagnostics, and core CS fundamentals.
@@ -50,8 +54,15 @@ Computer Science graduate with a strong foundation in **Backend Engineering (Nod
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karimmamdouh919&show_icons=true&theme=radical&count_private=true" alt="Karim's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karimmamdouh919&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=karimmamdouh919&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Karim's GitHub Stats" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karimmamdouh919&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karimmamdouh919&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
